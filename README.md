@@ -10,7 +10,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 Automated builds are available for stable releases and the unstable master branch.
 Binary archives are published at https://gwsh.wiseplat.org/downloads/.
 
-## Building the source 
+## Building the source
 
 For prerequisites and detailed build instructions please read the
 [Installation Instructions](https://github.com/wiseplat/go-wiseplat/wiki/Building-Wiseplat)
